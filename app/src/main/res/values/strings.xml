@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Wage app</string>
+    <string-array name="department">
+        <item>Human Resources</item>
+        <item>Academics</item>
+        <item>Administrative</item>
+
+    </string-array>
+
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+</resources>
